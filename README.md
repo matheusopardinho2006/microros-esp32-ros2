@@ -1,8 +1,8 @@
 #  Uma Proposta de Interação Remota com Robôs Móveis (ROS 2 + micro-ROS + ESP32)
 
 > Pesquisa de Iniciação Tecnológica (**PIBIT** – Edital PROPPG nº 02/2025) vinculada ao projeto *"Robótica Autônoma Móvel em Nuvens Computacionais"*[cite: 39, 40].  
-> **Instituição:** Universidade Tecnológica Federal do Paraná (UTFPR) – Câmpus Apucarana[cite: 39, 40]  
-> **Autor:** Matheus Oliveira Pardinho | **Orientador:** Prof. Dr. Lucio Agostinho Rocha[cite: 39, 40]
+> **Instituição:** Universidade Tecnológica Federal do Paraná (UTFPR) – Câmpus Apucarana  
+> **Autor:** Matheus Oliveira Pardinho | **Orientador:** Prof. Dr. Lucio Agostinho Rocha
 
 ---
 
